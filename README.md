@@ -1,10 +1,10 @@
-## Oi meu Jovem! tranquilo? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+## Não espere coisa boa vinda daqui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 ### Bio
 
-- 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
-- 🌱 Atualmente estudando: **Dart, BootstrapVue** e **JSP**.
-- 💙 <i>⁠"Sou só um vírus, querendo escapar, dos programadores da vida"</i>.
+- 👨‍💻 Estudando **Front-end** e **Back-end**.
+- 💙 <i>⁠"O estudo te traz tudo, a sorte te traz nada
+Vida sem conhecimento é igual a morte disfarçada"</i>.
 
 ### Linguagens e Ferramentas
 
