@@ -173,7 +173,7 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
       <img
         align="center"
         height="165"
-        src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&theme=dark&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=MuchachoVelho&show_icons=true&theme=dark&hide_border=true"
       />
     </a>
   </p>
@@ -182,7 +182,7 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
 
 ### Meus Repositórios Favoritos
 
-<h1>Nenhum até agora kk <h1/>
+<h1>Nenhum até agora kk
 
 
 
