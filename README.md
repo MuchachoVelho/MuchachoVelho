@@ -169,7 +169,7 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
 <details>
   <summary>Git Status</summary>
   <p align="center">
-    <a href="https://github.com/juliovt-07?tab=stars">
+    <a href="github.com/MuchachoVelho?tab=stars">">
       <img
         align="center"
         height="165"
@@ -182,30 +182,7 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
 
 ### Meus Repositórios Favoritos
 
-<p align="center">
-  <a href="https://github.com/juliovt-07/heroku-first-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=heroku-first-api&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/juliovt-07/Css-Xiaomi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Css-Xiaomi&theme=onedark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/juliovt-07/consuming-api-with-dart">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=consuming-api-with-dart&theme=cobalt" />
-  </a>
-  <a href="https://github.com/juliovt-07/Slider-Text">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Slider-Text&theme=material-palenight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/juliovt-07/Nuxt-Js">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Nuxt-Js&theme=gotham" />
-  </a>
-  <a href="https://github.com/juliovt-07/Pokeapi-vue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Pokeapi-vue&theme=gotham" />
-  </a>
-</p>
+<h1>Nenhum até agora kk <h1/>
 
 
 
