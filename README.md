@@ -1,4 +1,4 @@
-## Não espere coisa boa vinda daqui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+##  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 ### Bio
 
