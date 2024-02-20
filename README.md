@@ -46,14 +46,7 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
       height="40"
     />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -62,30 +55,9 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="Sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-      alt="Vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img
-      src="https://nuxtjs.org/logos/nuxt.svg"
-      alt="npm"
-      width="40"
-      height="40"
-    />
-  </a>
+
+
+ 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
@@ -110,30 +82,9 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
       height="40"
     />
   </a>
-  <a href="https://trello.com/pt-BR" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"
-      alt="Trello"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"
-      alt="WebStorm"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-      alt="Yarn"
-      width="40"
-      height="40"
-    />
-  </a>
+
+ 
+
   <a href="https://www.npmjs.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
