@@ -2,7 +2,7 @@
 
 ### Bio
 
-- 👨‍💻 Estudando **Front-end** e **Back-end**.
+- 👨‍💻 A broke college IT student learning  **Front-end** and **Back-end**.
 - 💙 <i>⁠"O estudo te traz tudo, a sorte te traz nada
 Vida sem conhecimento é igual a morte disfarçada"</i>.
 
