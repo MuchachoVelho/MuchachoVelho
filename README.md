@@ -105,32 +105,8 @@
     </a>
   </p>
 </details>
-<details>
-  <summary>WakaTime Status</summary>
-  <p align="center">
-    <a href="https://github.com/juliovt-07?tab=repositories">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact&hide_border=true"
-      />
-    </a>
-  </p>
-</details>
-<details>
-  <summary>Git Status</summary>
-  <p align="center">
-    <a href="github.com/MuchachoVelho?tab=stars">">
-      <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=MuchachoVelho&show_icons=true&theme=dark&hide_border=true"
-      />
-    </a>
-  </p>
-</details>
 <hr/>
 
-### Meus Repositórios Favoritos
 
 
 
