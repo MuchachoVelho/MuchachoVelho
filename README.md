@@ -3,10 +3,9 @@
 ### Bio
 
 - 👨‍💻 A broke college IT student learning  **Front-end** and **Back-end**.
-- 💙 <i>⁠"O estudo te traz tudo, a sorte te traz nada
-Vida sem conhecimento é igual a morte disfarçada"</i>.
+- 💙 
 
-### Linguagens e Ferramentas
+### Languagues and Tools
 
 <br/>
 
@@ -96,7 +95,7 @@ Vida sem conhecimento é igual a morte disfarçada"</i>.
 </p>
 <hr/>
 <details>
-  <summary>Linguagens mais usadas</summary>
+  <summary>Linguagues most used</summary>
   <p align="center">
     <a href="https://github.com/juliovt-07?tab=repositories">
       <img
