@@ -2,7 +2,7 @@
 
 ### Bio
 
-- 👨‍💻 A broke college IT student learning  **Front-end** and **Back-end**.
+- 👨‍💻 An  assiduous student constantly learning **Front-end** **Back-end** and the best practices for software engineering professionals.
 - 💙 
 
 ### Languagues and Tools
