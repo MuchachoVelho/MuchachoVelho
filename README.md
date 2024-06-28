@@ -2,7 +2,7 @@
 
 ### Bio
 
-- 👨‍💻 An  assiduous student constantly learning **Front-end** **Back-end** and the best practices for software engineering professionals.
+- 👨‍💻 An  assiduous student constantly learning **Front-end** **Back-end** and the best practices for software engineering.
 - 💙 
 
 ### Languagues and Tools
@@ -18,6 +18,16 @@
       height="40"
     />
   </a>
+
+   <a href="https://go.dev/" target="_blank">
+    <img
+      src="https://www.letscloud.io/blog/wp-content/uploads/2021/01/golang_destaque1.png"
+      alt="Golang"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
