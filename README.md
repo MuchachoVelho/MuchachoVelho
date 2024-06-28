@@ -21,7 +21,7 @@
 
    <a href="https://go.dev/" target="_blank">
     <img
-      src="https://www.letscloud.io/blog/wp-content/uploads/2021/01/golang_destaque1.png"
+      src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"
       alt="Golang"
       width="40"
       height="40"
@@ -107,10 +107,10 @@
 <details>
   <summary>Linguagues most used</summary>
   <p align="center">
-    <a href="https://github.com/juliovt-07?tab=repositories">
+    <a href="https://github.com/muchachovelho-07?tab=repositories">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchachovelho-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
       />
     </a>
   </p>
